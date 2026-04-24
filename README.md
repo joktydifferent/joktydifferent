@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I am currently studying computer systems engineering and I am taking courses to improve in data analysis
+I am currently studying computer systems engineering and I´m taking courses to improve on cybersecurity
 
 * 🌍  I'm based in Naucalpan
 * ✉️  You can contact me at [jokty333@outlook.com](mailto:jokty333@outlook.com)
